@@ -3,5 +3,17 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_191" project-jdk-type="JavaSDK" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ChainOfResponsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/SimpleFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/AbstractFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/Builder/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
