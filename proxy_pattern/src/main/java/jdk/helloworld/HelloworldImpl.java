@@ -1,6 +1,6 @@
 package jdk.helloworld;
 
-public class HelloworlImpl implements HelloWorld{
+public class HelloworldImpl implements HelloWorld{
 
     @Override
     public void sayhello() {

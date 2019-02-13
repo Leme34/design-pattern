@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 /**
  * CGlib代理类,必须实现MethodInterceptor的intercept()
  */
-public class CGlib_HelloworlImplProxy implements MethodInterceptor {
+public class CGlib_HelloworldImplProxy implements MethodInterceptor {
 
     /**
      * 创建代理对象

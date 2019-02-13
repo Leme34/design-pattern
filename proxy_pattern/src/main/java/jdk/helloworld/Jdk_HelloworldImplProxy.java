@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
 /**
  * JDK代理类,必须实现InvocationHandler的invoke()
  */
-public class Jdk_HelloworlImplProxy implements InvocationHandler {
+public class Jdk_HelloworldImplProxy implements InvocationHandler {
 
     //保存被代理的真实对象
     private Object target = null;

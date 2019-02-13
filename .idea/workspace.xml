@@ -2,54 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f913ecb-00d9-40e4-b771-f51faf2605f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/IProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/Product1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/Product2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/Product3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/ProductFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/ProductFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/ProductFactory3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/test/java/com/lee/AbstractFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/Builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/src/main/java/com/lee/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/src/main/java/com/lee/IHumanBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/src/main/java/com/lee/ManBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/src/test/java/com/lee/BuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/HelloworlImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/Interceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/InterceptorImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/InterceptorImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/InterceptorImpl3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/Jdk_InterceptorImplProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/test/java/com/lee/ChainOfResponsibilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/Observer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/com/lee/JingDongObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/com/lee/ProductList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/src/main/java/com/lee/TaoBaoObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/src/test/java/com/lee/ObserverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer/观察者模式实例.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/com/lee/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/com/lee/Product1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/com/lee/Product2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/com/lee/Product3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/main/java/com/lee/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/test/java/com/lee/SimpleFactoryTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main/java/CGlib/CGlib_HelloworlImplProxy.java" afterDir="false" />
@@ -59,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/helloworld/HelloWorld.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/helloworld/HelloworlImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/helloworld/Jdk_HelloworlImplProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloworlImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/test/java/CGlib/CGlibProxyTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/JdkProxyTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/example/Jdk_InterceptorImplProxyTest.java" afterDir="false" />
@@ -69,15 +23,8 @@
       <change afterPath="$PROJECT_DIR$/proxy_pattern/target/test-classes/CGlib/CGlibProxyTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/target/test-classes/jdk/JdkProxyTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/proxy_pattern/target/test-classes/jdk/example/Jdk_InterceptorImplProxyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example/Interceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example/InterceptorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example/Jdk_InterceptorImplProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/example/Jdk_InterceptorImplProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/example/Jdk_InterceptorImplProxyTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/proxy_pattern/target/" />
     <ignored path="$PROJECT_DIR$/ChainOfResponsibility/target/" />
@@ -106,36 +53,69 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Builder/src/main/java/com/lee/IHumanBuilder.java">
+        <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloworldImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/Static_HelloWorldImplProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_pattern/src/test/java/staticProxy/Static_HelloWorldImplProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/JdkProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/helloworld/Jdk_HelloworldImplProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Builder/src/main/java/com/lee/ManBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Builder/src/test/java/com/lee/BuilderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="180">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -164,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/Interceptor.java" />
         <option value="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/InterceptorImpl.java" />
         <option value="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/InterceptorImpl.java" />
         <option value="$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example1_interceptor/Jdk_InterceptorImplProxy.java" />
@@ -179,7 +158,6 @@
         <option value="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/InterceptorImpl3.java" />
         <option value="$PROJECT_DIR$/ChainOfResponsibility/src/main/java/com/lee/Jdk_InterceptorImplProxy.java" />
         <option value="$PROJECT_DIR$/ChainOfResponsibility/src/test/java/com/lee/ChainOfResponsibilityTest.java" />
-        <option value="$PROJECT_DIR$/ReadMe.md" />
         <option value="$PROJECT_DIR$/Observer/src/main/java/com/lee/ProductList.java" />
         <option value="$PROJECT_DIR$/Observer/src/main/java/com/lee/TaoBaoObserver.java" />
         <option value="$PROJECT_DIR$/Observer/src/main/java/com/lee/JingDongObserver.java" />
@@ -212,6 +190,11 @@
         <option value="$PROJECT_DIR$/Builder/src/main/java/com/lee/IHumanBuilder.java" />
         <option value="$PROJECT_DIR$/Builder/src/test/java/com/lee/BuilderTest.java" />
         <option value="$PROJECT_DIR$/Builder/src/main/java/com/lee/ManBuilder.java" />
+        <option value="$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloworlImpl.java" />
+        <option value="$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloWorldProxy.java" />
+        <option value="$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/Static_HelloWorldImplProxy.java" />
+        <option value="$PROJECT_DIR$/proxy_pattern/src/test/java/staticProxy/Static_HelloWorldImplProxyTest.java" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -243,7 +226,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -257,8 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,86 +250,54 @@
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lee" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lee" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,20 +322,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.lee" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="staticProxy" />
       <recent name="com.lee" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lee" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkPlace\design-pattern\proxy_pattern\src\main\java\staticProxy" />
       <recent name="D:\ideaWorkPlace\design-pattern\AbstractFactory\src" />
       <recent name="D:\ideaWorkPlace\design-pattern\AbstractFactory\src\main\java\com\lee" />
       <recent name="D:\ideaWorkPlace\design-pattern\Observer" />
       <recent name="D:\ideaWorkPlace\design-pattern\ChainOfResponsibility\src\main\java\com\lee" />
-      <recent name="D:\ideaWorkPlace\design-pattern\ChainOfResponsibility\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -548,14 +498,12 @@
       <workItem from="1549371790611" duration="8413000" />
       <workItem from="1549456321864" duration="2011000" />
       <workItem from="1549459983286" duration="4656000" />
-      <workItem from="1549895700951" duration="6265000" />
+      <workItem from="1549895700951" duration="6775000" />
+      <workItem from="1550050770648" duration="1116000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JdkProxyTest_jdkProxyTest - 2019.02.05 at 21h 16m 26s.xml">
-      <configuration name="JdkProxyTest.jdkProxyTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Jdk_InterceptorImplProxyTest_test - 2019.02.05 at 21h 18m 39s.xml">
       <configuration name="Jdk_InterceptorImplProxyTest.test" configurationId="JUnit" />
     </history-entry>
@@ -583,28 +531,31 @@
     <history-entry file="BuilderTest_test - 2019.02.12 at 00h 32m 01s.xml">
       <configuration name="BuilderTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BuilderTest_test - 2019.02.12 at 00h 33m 25s.xml">
+      <configuration name="BuilderTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26072000" />
+    <option name="totallyTimeSpent" value="27698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19235925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19504021" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2600536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2600536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18230563" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.1898017" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
@@ -645,61 +596,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/helloworld/Jdk_HelloworlImplProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/JdkProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/example/Jdk_InterceptorImplProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example1_interceptor/Interceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example1_interceptor/InterceptorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/example1_interceptor/Jdk_InterceptorImplProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChainOfResponsibility/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -772,16 +668,6 @@
     <entry file="file://$PROJECT_DIR$/Observer/Observer.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Observer/src/main/java/com/lee/ProductList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -820,20 +706,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/test/java/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/test/java/AbstractFactoryTest.java" />
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/main/java/com/lee/AbstractFactoryTest.java" />
     <entry file="file://$PROJECT_DIR$/SimpleFactory/src/main/java/com/lee/Product1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -929,9 +803,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleFactory/src/test/java/com/lee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFactory/src/test/java/com/lee.java" />
     <entry file="file://$PROJECT_DIR$/AbstractFactory/src/test/java/com/lee/AbstractFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -974,6 +846,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Builder/src/test/java/com/lee/BuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builder/src/main/java/com/lee/ManBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Builder/src/main/java/com/lee/IHumanBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -981,23 +873,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/src/test/java/com/lee/BuilderTest.java">
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloworldImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="150">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/src/main/java/com/lee/ManBuilder.java">
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/Static_HelloWorldImplProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-          </folding>
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/test/java/jdk/JdkProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/test/java/staticProxy/Static_HelloWorldImplProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/staticProxy/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pattern/src/main/java/jdk/helloworld/Jdk_HelloworldImplProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="180">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
