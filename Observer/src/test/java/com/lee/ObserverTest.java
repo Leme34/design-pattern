@@ -1,5 +1,8 @@
 package com.lee;
 
+import com.lee.jdk.JingDongObserver;
+import com.lee.jdk.ProductList;
+import com.lee.jdk.TaoBaoObserver;
 import org.junit.Test;
 
 public class ObserverTest {
