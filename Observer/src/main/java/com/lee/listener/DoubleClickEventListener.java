@@ -7,7 +7,7 @@ package com.lee.listener;
 public class DoubleClickEventListener implements EventListener {
     @Override
     public void processEvent(Event event) {
-        if (EventSource.DOUBLE_CLICK.equals(event.getName())) {
+        if (AbstractEventMulticaster.DOUBLE_CLICK.equals(event.getName())) {
             System.out.println("处理双击事件...");
         }
     }

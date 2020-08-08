@@ -7,13 +7,16 @@ import java.util.List;
  * Created by lsd
  * 2020-07-12 11:38
  */
-public class EventSource {
+public abstract class AbstractEventMulticaster {
 
     public final static String CLICK = "单击";
     public final static String DOUBLE_CLICK = "双击";
 
     private final List<EventListener> listeners = new ArrayList<>();
 
+    public abstract void doStart();
+
+    public abstract void doEnd();
 
     /**
      * 注册监听器
@@ -29,19 +32,24 @@ public class EventSource {
      *
      * @param event 事件
      */
-    public void publish(Event event) {
+    public void multicastEvent(Event event) {
+        //模板方法设计模式
+        doStart();
         for (EventListener listener : listeners) {
             listener.processEvent(event);
         }
+        doEnd();
     }
 
 
     public static void main(String[] args) {
-        EventSource eventSource = new EventSource();
-        eventSource.subscribe(new ClickEventListener());
-        eventSource.subscribe(new DoubleClickEventListener());
-        eventSource.publish(new Event(CLICK));
-        eventSource.publish(new Event(DOUBLE_CLICK));
+        AbstractEventMulticaster clickEventMulticaster = new ClickEventMulticaster();
+        clickEventMulticaster.subscribe(new ClickEventListener());
+        clickEventMulticaster.multicastEvent(new Event(CLICK));
+
+        AbstractEventMulticaster doubleClickEventMulticaster = new DoubleClickEventMulticaster();
+        doubleClickEventMulticaster.subscribe(new DoubleClickEventListener());
+        doubleClickEventMulticaster.multicastEvent(new Event(DOUBLE_CLICK));
     }
 
 }

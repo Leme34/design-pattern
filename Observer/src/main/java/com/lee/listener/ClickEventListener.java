@@ -7,7 +7,7 @@ package com.lee.listener;
 public class ClickEventListener implements EventListener {
     @Override
     public void processEvent(Event event) {
-        if (EventSource.CLICK.equals(event.getName())) {
+        if (AbstractEventMulticaster.CLICK.equals(event.getName())) {
             System.out.println("处理单击事件...");
         }
     }
