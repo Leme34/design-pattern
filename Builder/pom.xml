@@ -4,24 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lee</groupId>
+    <parent>
+        <artifactId>design-pattern</artifactId>
+        <groupId>com.lee</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
     <artifactId>Builder</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.4</version>
-            <scope>provided</scope>
-        </dependency>
-
-    </dependencies>
+    <packaging>pom</packaging>
 
 </project>
