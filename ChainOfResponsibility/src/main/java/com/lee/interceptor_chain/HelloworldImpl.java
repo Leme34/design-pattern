@@ -1,6 +1,6 @@
-package com.lee;
+package com.lee.interceptor_chain;
 
-public class HelloworlImpl implements HelloWorld{
+public class HelloworldImpl implements HelloWorld{
 
     @Override
     public void sayhello() {

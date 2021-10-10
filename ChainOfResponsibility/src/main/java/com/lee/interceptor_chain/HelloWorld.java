@@ -1,4 +1,4 @@
-package com.lee;
+package com.lee.interceptor_chain;
 
 /**
  * jdk只能创建被代理类接口的对象,而不是实现类对象
